@@ -38,3 +38,6 @@ In the configuration console, scroll down to the build section and click "Add bu
 
 Then select "Execute shell"
 
+## Add git credentials
+Go to Dashboard -> Manage Jenkins -> Manage Credentials
+![img.png](img/manage-credentials.png)
